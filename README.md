@@ -18,5 +18,5 @@ Pole placement - eigen values placed at [-3 -3.1 -3.2 -3.3]
 
 
 # References
-1. https://youtu.be/qjhAAQexzLg
-2. https://youtu.be/M_jchYsTZvM
+1. Steve Brunton. (2017, January 29). _Inverted Pendulum on a Cart [Control Bootcamp]_. Youtube https://youtu.be/qjhAAQexzLg
+2. Steve Brunton. (2017, January 29). _Pole Placement for the Inverted Pendulum on a Cart [Control Bootcamp]_. Youtube https://youtu.be/M_jchYsTZvM
