@@ -38,4 +38,5 @@ https://github.com/komxun/Inverted_Pendulum_Control/assets/133139057/864559cc-e5
 
 # References
 [1] Steve Brunton. (2017, January 29). _Inverted Pendulum on a Cart [Control Bootcamp]_. Youtube https://youtu.be/qjhAAQexzLg
+
 [2] Steve Brunton. (2017, January 29). _Pole Placement for the Inverted Pendulum on a Cart [Control Bootcamp]_. Youtube https://youtu.be/M_jchYsTZvM
