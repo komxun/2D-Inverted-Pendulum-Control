@@ -1,7 +1,7 @@
 # Inverted_Pendulum_Control
 [Practice Problem 5 Presentation.pdf](https://github.com/komxun/Inverted_Pendulum_Control/files/11444416/Practice.Problem.5.Presentation.pdf)
 
-Simulating and controlling 2D inverted pendulum with pole-placement method
+Simulating and controlling 2D inverted pendulum with pole-placement method in MATLAB
 
 ## Problem Statement
 ![image](https://github.com/komxun/Inverted_Pendulum_Control/assets/133139057/4020e4ab-f28f-4470-846b-513eefa7e3ec)
