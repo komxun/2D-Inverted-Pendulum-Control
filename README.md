@@ -4,11 +4,16 @@
 Simulating and controlling 2D inverted pendulum with pole-placement method
 
 ## Problem Statement
-![image](https://github.com/komxun/Inverted_Pendulum_Control/assets/133139057/6fe5ec51-8377-4388-9e1d-2d510134b789)
+![image](https://github.com/komxun/Inverted_Pendulum_Control/assets/133139057/2f643766-4edf-4d0b-9fb1-08fd26205784)
 
 
 ## Results 
+
 ### Free fall response
+https://github.com/komxun/Inverted_Pendulum_Control/assets/133139057/f12fa547-6753-4dce-be5e-87ecac275c61
+
+
+
 ![wheelpend_freefall_graph](https://github.com/komxun/Inverted_Pendulum_Control/assets/133139057/822be049-c959-4620-909b-fb500d5697e1)
 
 ### Pole placement - eigen values placed at [-1.3 -1.4 -1.5 -1.6]
