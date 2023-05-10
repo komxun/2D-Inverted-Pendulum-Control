@@ -4,7 +4,7 @@
 Simulating and controlling 2D inverted pendulum with pole-placement method
 
 ## Problem Statement
-![image](https://github.com/komxun/Inverted_Pendulum_Control/assets/133139057/2f643766-4edf-4d0b-9fb1-08fd26205784)
+![image](https://github.com/komxun/Inverted_Pendulum_Control/assets/133139057/4020e4ab-f28f-4470-846b-513eefa7e3ec)
 
 
 ## Results 
