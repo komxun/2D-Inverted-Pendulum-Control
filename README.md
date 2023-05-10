@@ -3,6 +3,10 @@
 
 Simulating and controlling 2D inverted pendulum with pole-placement method
 
+## Problem Statement
+![image](https://github.com/komxun/Inverted_Pendulum_Control/assets/133139057/6fe5ec51-8377-4388-9e1d-2d510134b789)
+
+
 ## Results 
 ### Free fall response
 ![wheelpend_freefall_graph](https://github.com/komxun/Inverted_Pendulum_Control/assets/133139057/822be049-c959-4620-909b-fb500d5697e1)
