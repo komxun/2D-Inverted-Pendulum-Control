@@ -4,6 +4,32 @@
 
 Simulating and controlling 2D inverted pendulum with pole-placement method in MATLAB
 
+# Initial conditions
+## Constants
+
+| Parameters | Values |
+| --- | --- |
+| Rod's mass ($m$) | $1 \quad \textrm{kg} $ |
+| Wheel's mass ($M$) | $5 \quad \textrm{kg} $ |
+| Rod's half length ($l$) | $2 \quad \textrm{m} $ |
+| Drag coefficient ($d$) | $5 \quad \textrm{kg/s} $ |
+
+## Initial conditions
+| Parameters | Values |
+| --- | --- |
+| Wheel's initial position ($x_0$) | $-3 \quad \textrm{m} $ |
+| Wheel's initial velocity ($\dot{x}\_0$) | $0 \quad \textrm{m/s} $ |
+| Rod's initial angle ($\theta_0$) | $+30 \degree$ |
+| Rod's initial angular velocity ($\dot{\theta}\_0$) | $0 \quad \textrm{rad/s} $ |
+
+## Target conditions
+| Parameters | Target values |
+| --- | --- |
+| Wheel's position ($x_f$) | $+2 \quad \textrm{m} $ |
+| Rod's angle ($\theta_f$) | $0 \degree$ |
+
+
+
 # Problem Statement
 ![image](https://github.com/komxun/Inverted_Pendulum_Control/assets/133139057/4020e4ab-f28f-4470-846b-513eefa7e3ec)
 
